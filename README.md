@@ -15,9 +15,9 @@ Transparency is a key part of our commitment to user privacy. By making our priv
 
 ## 📬 Contact
 
-If you have any questions about these privacy policies, feel free to contact us:
+If you have any questions about these privacy policies, feel free to contact me:
 
-- Email: Dominick.randriamanantena@gmail.com
+- Email: dominick.randriamanantena@gmail.com
 
 ## 📝 License
 
